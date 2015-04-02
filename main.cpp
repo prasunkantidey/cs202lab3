@@ -11,5 +11,7 @@ int main(){
 	cin >> second;
 	
 	cout << "Sum: " << add(first, second) << endl;
+	cout << "Sub: " << sub(first, second) << endl;
+	
 	return 0;
 }
