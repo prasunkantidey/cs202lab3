@@ -9,7 +9,7 @@ int main(){
 	cin >> first;
 	cout << "Enter second: ";
 	cin >> second;
-	
+
 	cout << "Addition: " << add(first, second) << endl;
 	cout << "Sub: " << sub(first, second) << endl;
 	
