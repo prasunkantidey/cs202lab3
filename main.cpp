@@ -10,7 +10,7 @@ int main(){
 	cout << "Enter second: ";
 	cin >> second;
 	
-	cout << "Sum: " << add(first, second) << endl;
+	cout << "Addition: " << add(first, second) << endl;
 	cout << "Sub: " << sub(first, second) << endl;
 	
 	return 0;
